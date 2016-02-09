@@ -1,5 +1,4 @@
 p {
-  padding: 25px;
   margin: 25px 50px 25px 5px;
 }
 
@@ -58,4 +57,8 @@ body {
 
 header {
   font-family: 'Lobster';
+}
+
+ul {
+  list-style-position: inside;
 }

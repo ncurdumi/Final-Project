@@ -17,12 +17,12 @@ function addItem() {
   var numItems = $("li").length;
 
   // Challenge: Differentiate between 1 item vs. more items
-  if (numItems == 1) {
-    $(".total").html(numItems + " item");
-  }
-  else {
-    $(".total").html(numItems + " items");
-  }
+  // if (numItems == 1) {
+  //   $(".total").html(numItems + " item");
+  // }
+  // else {
+  //   $(".total").html(numItems + " items");
+  // }
 }
 
 // This function deletes an item from the list.
