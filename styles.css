@@ -1,0 +1,61 @@
+p {
+  padding: 25px;
+  margin: 25px 50px 25px 5px;
+}
+
+.important {
+  font-size: 64px;
+}
+
+
+li a {
+  color: "red";
+}
+
+body {
+  font-family: "Times New Roman";
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    font-family: 'Lobster';
+    color: rgba(89, 89, 89, 1);
+    padding-bottom: 20px;
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(219, 219, 219, 1);
+    border-bottom-width: 2px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(219, 219, 219, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(199, 199, 199, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(219, 219, 219, 1);
+    background-color: rgba(199, 199, 199, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #rgba(119, 119, 119, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #rgba(219, 219, 219, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #rgba(119, 119, 119, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #rgba(219, 219, 219, 1);
+}
+
+header {
+  font-family: 'Lobster';
+}
